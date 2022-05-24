@@ -1,0 +1,75 @@
+#cabecalho {
+    height: 75px;
+    width:100%;
+    background-image: linear-gradient(to left, #7949A8 , #DDC913);
+  }
+  body{
+    background-color: #676767;
+  }
+  
+  .color{
+    color: #FF951C;
+  }
+  
+  a{
+    text-decoration: none;
+    color: black;
+  }
+  
+  #cabecalho{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+  #Superstar{
+  width:65px;
+    height:65px;
+  }
+  #foto{
+    width:40px;
+    height:40px;
+  }
+  #onepiece{
+  width:400px;
+  height:600px;
+  border-radius:15px;
+}
+  #boruto{
+  width:400px;
+  height:600px;
+  border-radius:15px;
+}
+  #onepunch{
+  width:400px;
+  height:600px;
+  border-radius:15px;
+}
+  #fullmetal{
+  width:400px;
+  height:600px;
+  border-radius:15px;
+}
+  #Votos{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.azul {background-color: #1042A3;
+border-radius:50px;
+width:400px;
+} 
+
+.amarelo {background-color: #938E16;
+border-radius:50px;
+width:400px;
+} 
+
+.vermelho {background-color: #A81910; color: black;
+border-radius:50px;
+width:400px;
+} 
+
+.verde {background-color: #146517;
+border-radius:50px;
+width:400px;
+} 

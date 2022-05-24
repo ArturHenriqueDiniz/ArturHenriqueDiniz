@@ -1,0 +1,64 @@
+#cabecalho {
+    height: 75px;
+    width:100%;
+    background-image: linear-gradient(to left, #7949A8 , #DDC913);
+  }
+  body{
+    background-color: #676767;
+  }
+  
+  .color{
+    color: #FF951C;
+  }
+  
+  a{
+    text-decoration: none;
+    color: black;
+  }
+  
+  #cabecalho{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+  #Superstar{
+    width:65px;
+    height:65px;
+  }
+  #foto{
+    width:40px;
+    height:40px;
+  }
+  #jujutsu{
+    width:310px;
+    height:310px;
+  }
+  #blackclover{
+    width:310px;
+    height:310px;
+  }
+  #demonslayer{
+    width:310px;
+    height:310px;
+  }
+  #jujutsu0{
+    width:310px;
+    height:310px;
+  }
+  #atackaotitan{
+    width:310px;
+    height:310px;
+  }
+  #drstone{
+    width:310px;
+    height:310px;
+  }
+  #jojo{
+    width:310px;
+    height:310px;
+  }
+  #hunterxhunter{
+    width:310px;
+    height:310px;
+  }
+

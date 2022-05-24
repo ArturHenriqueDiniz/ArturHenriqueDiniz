@@ -1,0 +1,227 @@
+#cabecalho {
+    height: 75px;
+    width:100%;
+    background-image: linear-gradient(to left, #7949A8 , #DDC913);
+  }
+  body{
+    background-color: #676767;
+  }
+  
+  .color{
+    color: #FF951C;
+  }
+  
+  a{
+    text-decoration: none;
+    color: black;
+  }
+  
+  #cabecalho{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+  #Superstar{
+  width:65px;
+    height:65px;
+  }
+  #foto{
+    width:40px;
+    height:40px;
+  }
+  #tabela{
+  border: solid 6px;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  margin: 60px 400px;
+  padding: 30px 60px;
+  }
+  
+table{
+font-size: 25px;}
+
+.margem{
+border-left:solid 5px ;
+
+}
+  
+
+#cabecalho {
+    height: 75px;
+    width:100%;
+    background-image: linear-gradient(to left, #7949A8 , #DDC913);
+  }
+  body{
+    background-color: #676767;
+  }
+  
+  .color{
+    color: #FF951C;
+  }
+  
+  a{
+    text-decoration: none;
+    color: black;
+  }
+  
+  #cabecalho{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+  #Superstar{
+  width:65px;
+    height:65px;
+  }
+  #fotosperfil{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  }
+  #foto{
+    width:40px;
+    height:40px;
+  }
+  #eren{
+    width:200px;
+    height:200px;
+    border-radius:50px;
+  }
+  #mikasa{
+    width:200px;
+    height:200px;
+    border-radius:50px;
+  }
+  #tanjiro{
+    width:200px;
+    height:200px;
+    border-radius:50px;
+  }
+  #nezuco{
+    width:200px;
+    height:200px;
+    border-radius:50px;
+  }
+  #asta{
+    width:200px;
+    height:200px;
+    border-radius:50px;
+  }
+  #yuno{
+    width:200px;
+    height:200px;
+    border-radius:50px;
+  }
+ #Gon{
+    width:200px;
+    height:200px;
+    border-radius:50px;
+  }
+#Killua{
+    width:200px;
+    height:200px;
+    border-radius:50px;
+  }
+#deku{
+    width:200px;
+    height:200px;
+    border-radius:50px;
+  }
+#bakugo{
+    width:200px;
+    height:200px;
+    border-radius:50px;
+  }
+#ichigo{
+    width:200px;
+    height:200px;
+    border-radius:50px;
+  }
+#rukia{
+    width:200px;
+    height:200px;
+    border-radius:50px;
+  }
+#shoyo{
+    width:200px;
+    height:200px;
+    border-radius:50px;
+  }
+#Koshi{
+    width:200px;
+    height:200px;
+    border-radius:50px;
+  }
+#gojo{
+    width:200px;
+    height:200px;
+    border-radius:50px;
+  }
+#itadori{
+    width:200px;
+    height:200px;
+    border-radius:50px;
+  }
+#DIO{
+    width:200px;
+    height:200px;
+    border-radius:50px;
+  }
+#Jotaro{
+    width:200px;
+    height:200px;
+    border-radius:50px;
+  }
+#Senku{
+    width:200px;
+    height:200px;
+    border-radius:50px;
+  }
+#Kaneki{
+    width:200px;
+    height:200px;
+    border-radius:50px;
+  }
+#Goku{
+    width:200px;
+    height:200px;
+    border-radius:50px;
+  }
+#luffy{
+    width:200px;
+    height:200px;
+    border-radius:50px;
+  }
+#Naruto{
+    width:200px;
+    height:200px;
+    border-radius:50px;
+  }
+#overlord{
+    width:200px;
+    height:200px;
+    border-radius:50px;
+  }
+#saitama{
+    width:200px;
+    height:200px;
+    border-radius:50px;
+  }
+#Shinji{
+width:200px;
+    height:200px;
+    border-radius:50px;
+  }
+#ayanokoji
+{
+width:200px;
+    height:200px;
+    border-radius:50px;
+  }
+#adicionarfoto{
+    width:200px;
+    height:200px;
+    border-radius:50px;
+  }
+
